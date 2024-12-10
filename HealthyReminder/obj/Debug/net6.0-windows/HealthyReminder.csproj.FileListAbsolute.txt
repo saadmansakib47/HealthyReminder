@@ -1,0 +1,16 @@
+D:\HealthyReminder\HealthyReminder\bin\Debug\net6.0-windows\HealthyReminder.exe
+D:\HealthyReminder\HealthyReminder\bin\Debug\net6.0-windows\HealthyReminder.deps.json
+D:\HealthyReminder\HealthyReminder\bin\Debug\net6.0-windows\HealthyReminder.runtimeconfig.json
+D:\HealthyReminder\HealthyReminder\bin\Debug\net6.0-windows\HealthyReminder.dll
+D:\HealthyReminder\HealthyReminder\bin\Debug\net6.0-windows\HealthyReminder.pdb
+D:\HealthyReminder\HealthyReminder\obj\Debug\net6.0-windows\HealthyReminder.Form1.resources
+D:\HealthyReminder\HealthyReminder\obj\Debug\net6.0-windows\HealthyReminder.csproj.GenerateResource.cache
+D:\HealthyReminder\HealthyReminder\obj\Debug\net6.0-windows\HealthyReminder.GeneratedMSBuildEditorConfig.editorconfig
+D:\HealthyReminder\HealthyReminder\obj\Debug\net6.0-windows\HealthyReminder.AssemblyInfoInputs.cache
+D:\HealthyReminder\HealthyReminder\obj\Debug\net6.0-windows\HealthyReminder.AssemblyInfo.cs
+D:\HealthyReminder\HealthyReminder\obj\Debug\net6.0-windows\HealthyReminder.csproj.CoreCompileInputs.cache
+D:\HealthyReminder\HealthyReminder\obj\Debug\net6.0-windows\HealthyReminder.dll
+D:\HealthyReminder\HealthyReminder\obj\Debug\net6.0-windows\refint\HealthyReminder.dll
+D:\HealthyReminder\HealthyReminder\obj\Debug\net6.0-windows\HealthyReminder.pdb
+D:\HealthyReminder\HealthyReminder\obj\Debug\net6.0-windows\HealthyReminder.genruntimeconfig.cache
+D:\HealthyReminder\HealthyReminder\obj\Debug\net6.0-windows\ref\HealthyReminder.dll
